@@ -9,20 +9,13 @@ The main topic is; Blockchain is much more, than just cryptocurrency.
 We aim that BCSI-TR will contribute to the Turkish blockchain ecosystem.
 
 
-Other Projects
+## Other Projects
 
 
 Data Science 
 [Chicago Crime Data Analyse]
 <img src="images/Screen Shot 2020-06-30 at 21.00.01.png"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
