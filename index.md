@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+###Data Science 
 
-[Project 1 Title](/sample_page)
+[Chicago Crime Data Analyse](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
