@@ -5,7 +5,7 @@
 Data Science 
 
 [Chicago Crime Data Analyse](/sample_page)
-<img src=""/>
+<img src="images/Screen Shot 2020-06-30 at 21.00.01.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
