@@ -1,6 +1,13 @@
 ## Portfolio
 
 ---
+I am currently intern at BCSI-TR. BCSI-TR program is an online internship program by TUBU and MSKU-BcRG Lab
+
+
+BCSI-TR program is building an environment where ideas and projects can grow.
+The main topic is; Blockchain is much more, than just cryptocurrency.
+We aim that BCSI-TR will contribute to the Turkish blockchain ecosystem.
+
 
 Data Science 
 
