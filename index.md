@@ -21,7 +21,7 @@ Data Science
 
 ## CV
 
-<img src="images/Screen Shot 2020-06-30 at 21.00.01.png"/>
+<img src="images/CVSENANURGUVERCİNOGLU.jpg"/>
 
 
 
